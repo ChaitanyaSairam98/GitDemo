@@ -22,6 +22,8 @@ public class day4 {
 	public void APIloginHomeloan() {
 		System.out.println("APIloginHomeloan");
 		System.out.println("APIloginHomeloan1");
+		System.out.println("APIloginHomeloan2");
+		
 	}
 
 }

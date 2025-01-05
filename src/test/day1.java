@@ -16,6 +16,7 @@ public class day1 {
 	@BeforeSuite
 	public void Bfsuite() {
 		System.out.println("before suite");
+		System.out.println("before suite1");
 	}
 	@AfterSuite
 	public void Afsuite() {

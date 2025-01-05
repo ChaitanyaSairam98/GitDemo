@@ -10,6 +10,8 @@ public class day1 {
 	@Test
 	public void Demo() {
 		System.out.println("Hello");
+		System.out.println("Hello1");
+		System.out.println("Hello2");
 	}
 	@BeforeSuite
 	public void Bfsuite() {

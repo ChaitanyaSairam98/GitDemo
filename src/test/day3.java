@@ -11,6 +11,7 @@ public class day3 {
 	@Test
 	public void Weblogincarloan() {
 		System.out.println("Weblogincarloan");
+		System.out.println("Weblogincarloan1");
 	}
 	@BeforeMethod
 	public void Bfmethod() {
@@ -25,6 +26,7 @@ public class day3 {
 	@Test
 	public void Mobilesignincarloan(String urlname,String key) {
 		System.out.println("Mobilesignincarloan");
+		System.out.println("Mobilesignincarloan1");
 		System.out.println(urlname);
 		System.out.println(key);
 	}
